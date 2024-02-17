@@ -151,7 +151,7 @@ a {
 
   height: 600px;
   background: linear-gradient(90deg, #2f303a66 0%, #2f303a66 100%),
-    url("/images/hero.jpg"), #2f303a;
+    url("../images/hero.jpg"), #2f303a;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
